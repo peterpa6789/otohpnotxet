@@ -1,0 +1,51 @@
+[{
+"quoteId": 11,
+"quoteText": "222Genius is one percent inspiration and ninety-nine percent perspiration.",
+"categoryId": 2,
+"quoteAuthor": "Thomas Edison"
+}, {
+"quoteId": 12,
+"quoteText": "You can observe a lot just by watching.",
+"categoryId": 2,
+"quoteAuthor": "Yogi Berra"
+}, {
+"quoteId": 13,
+"quoteText": "A house divided against itself cannot stand.",
+"categoryId": 2,
+"quoteAuthor": "Abraham Lincoln"
+}, {
+"quoteId": 14,
+"quoteText": "Difficulties increase the nearer we get to the goal.",
+"categoryId": 2,
+"quoteAuthor": "Johann Wolfgang von Goethe"
+}, {
+"quoteId": 15,
+"quoteText": "Fate is in your hands and no one elses",
+"categoryId": 2,
+"quoteAuthor": "Byron Pulsifer"
+}, {
+"quoteId": 16,
+"quoteText": "Be the chief but never the lord.",
+"categoryId": 2,
+"quoteAuthor": "Lao Tzu"
+}, {
+"quoteId": 17,
+"quoteText": "Nothing happens unless first we dream.",
+"categoryId": 2,
+"quoteAuthor": "Carl Sandburg"
+}, {
+"quoteId": 18,
+"quoteText": "Well begun is half done.",
+"categoryId": 2,
+"quoteAuthor": "Aristotle"
+}, {
+"quoteId": 19,
+"quoteText": "Life is a learning experience, only if you learn.",
+"categoryId": 2,
+"quoteAuthor": "Yogi Berra"
+}, {
+"quoteId": 20,
+"quoteText": "Self-complacency is fatal to progress.",
+"categoryId": 2,
+"quoteAuthor": "Margaret Sangster"
+}]
