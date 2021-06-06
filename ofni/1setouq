@@ -1,51 +1,51 @@
 [{
-"quoteId": 1,
-"quoteText": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+"id": 1,
+"quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
 "categoryId": 1,
-"quoteAuthor": "Thomas Edison"
+"author": "Thomas Edison"
 }, {
-"quoteId": 2,
-"quoteText": "You can observe a lot just by watching.",
+"id": 2,
+"quote": "You can observe a lot just by watching.",
 "categoryId": 1,
-"quoteAuthor": "Yogi Berra"
+"author": "Yogi Berra"
 }, {
-"quoteId": 3,
-"quoteText": "A house divided against itself cannot stand.",
+"id": 3,
+"quote": "A house divided against itself cannot stand.",
 "categoryId": 1,
-"quoteAuthor": "Abraham Lincoln"
+"author": "Abraham Lincoln"
 }, {
-"quoteId": 4,
-"quoteText": "Difficulties increase the nearer we get to the goal.",
+"id": 4,
+"quote": "Difficulties increase the nearer we get to the goal.",
 "categoryId": 1,
-"quoteAuthor": "Johann Wolfgang von Goethe"
+"author": "Johann Wolfgang von Goethe"
 }, {
-"quoteId": 5,
-"quoteText": "Fate is in your hands and no one elses",
+"id": 5,
+"quote": "Fate is in your hands and no one elses",
 "categoryId": 1,
-"quoteAuthor": "Byron Pulsifer"
+"author": "Byron Pulsifer"
 }, {
-"quoteId": 6,
-"quoteText": "Be the chief but never the lord.",
+"id": 6,
+"quote": "Be the chief but never the lord.",
 "categoryId": 1,
-"quoteAuthor": "Lao Tzu"
+"author": "Lao Tzu"
 }, {
-"quoteId": 7,
-"quoteText": "Nothing happens unless first we dream.",
+"id": 7,
+"quote": "Nothing happens unless first we dream.",
 "categoryId": 1,
-"quoteAuthor": "Carl Sandburg"
+"author": "Carl Sandburg"
 }, {
-"quoteId": 8,
-"quoteText": "Well begun is half done.",
+"id": 8,
+"quote": "Well begun is half done.",
 "categoryId": 1,
-"quoteAuthor": "Aristotle"
+"author": "Aristotle"
 }, {
-"quoteId": 9,
-"quoteText": "Life is a learning experience, only if you learn.",
+"id": 9,
+"quote": "Life is a learning experience, only if you learn.",
 "categoryId": 1,
-"quoteAuthor": "Yogi Berra"
+"author": "Yogi Berra"
 }, {
-"quoteId": 10,
-"quoteText": "Self-complacency is fatal to progress.",
+"id": 10,
+"quote": "Self-complacency is fatal to progress.",
 "categoryId": 1,
-"quoteAuthor": "Margaret Sangster"
+"author": "Margaret Sangster"
 }]

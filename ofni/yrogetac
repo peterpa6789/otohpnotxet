@@ -2,11 +2,25 @@
   {
     "id": 1,
     "url": "https://raw.githubusercontent.com/peterpa6789/otohpnotxet/master/ofni/1setouq",
-    "title": "Quotes 1"
+    "title": "Quotes 1",
+	"type": 0
   },
   {
     "id": 2,
     "url": "https://raw.githubusercontent.com/peterpa6789/otohpnotxet/master/ofni/2setouq",
-    "title": "Quotes 2"
+    "title": "Quotes 2",
+	"type": 0
+  },
+  {
+    "id": 1001,
+    "url": "https://raw.githubusercontent.com/peterpa6789/otohpnotxet/master/ofni/1segami",
+    "title": "Images 1",
+	"type": 1
+  },
+  {
+    "id": 1002,
+    "url": "https://raw.githubusercontent.com/peterpa6789/otohpnotxet/master/ofni/2segami",
+    "title": "Images 2",
+	"type": 1
   }
 ]
